@@ -5,4 +5,4 @@ Features:
 Deal cards and calculate hand values
 Determine win/loss conditions
 User-friendly interface
-Check out the deployed version of the game by copy and pasting the link: "https://simple-js-black-jack-game-6xlopud6c-shivam-jadauns-projects.vercel.app".
+Check out the deployed version of the game by simply clicking here -> "https://simple-js-black-jack-game-6xlopud6c-shivam-jadauns-projects.vercel.app".
