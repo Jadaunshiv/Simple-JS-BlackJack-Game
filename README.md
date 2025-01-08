@@ -1,4 +1,5 @@
-Simple Blackjack Game
+<strong>Simple Blackjack Game.</strong>
+<br>
 This repository contains a basic implementation of the classic Blackjack game, created using HTML, CSS, and JavaScript. 
 Players can experience the thrill of trying to get as close to 21 without going over, in this simple yet engaging web-based game.
 Features:
